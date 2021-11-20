@@ -1,0 +1,49 @@
+user@ubuntu:~/Desktop/partialSums$ ./partialSums
+
+How many numbers are in the array?
+8
+
+Please insert the array's integers:
+3 5 1 -15 10 -1 10 14
+
+The array you have entered is:
+3 5 1 -15 10 -1 10 14 
+The partial sums array is:
+3 8 9 -6 4 3 13 27 
+user@ubuntu:~/Desktop/partialSums$ ./partialSums
+
+How many numbers are in the array?
+3
+
+Please insert the array's integers:
+10 20 35
+
+The array you have entered is:
+10 20 35 
+The partial sums array is:
+10 30 65 
+user@ubuntu:~/Desktop/partialSums$ ./partialSums
+
+How many numbers are in the array?
+2
+
+Please insert the array's integers:
+4 400
+
+The array you have entered is:
+4 400 
+The partial sums array is:
+4 404 
+user@ubuntu:~/Desktop/partialSums$ ./partialSums
+
+How many numbers are in the array?
+1
+
+Please insert the array's integers:
+1
+
+The array you have entered is:
+1 
+The partial sums array is:
+1 
+
